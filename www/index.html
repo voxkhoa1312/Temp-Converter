@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chuyển đổi nhiệt độ</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Chuyển đổi nhiệt độ</h1>
+        <input type="number" id="celsius" placeholder="Nhập nhiệt độ (°C)">
+        <button id="convertBtn">Chuyển đổi</button>
+        <p id="result"></p>
+        <button id="shareBtn" style="display: none;">Chia sẻ kết quả</button>
+        <button id="locationBtn" style="margin-top: 10px;">Lấy vị trí</button>
+        <p id="locationResult"></p>
+    </div>
+    <!-- Tải Capacitor core và các plugin từ CDN -->
+    <script src="https://unpkg.com/@capacitor/core@latest/dist/capacitor.js"></script>
+    <script src="https://unpkg.com/@capacitor/local-notifications@latest/dist/capacitor-local-notifications.js"></script>
+    <script src="https://unpkg.com/@capacitor/share@latest/dist/capacitor-share.js"></script>
+    <script src="https://unpkg.com/@capacitor/geolocation@latest/dist/capacitor-geolocation.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

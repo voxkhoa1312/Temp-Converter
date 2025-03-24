@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.tempconverter",
+  "appName": "Temperature Converter",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
