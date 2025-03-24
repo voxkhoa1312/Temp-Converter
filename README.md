@@ -63,3 +63,9 @@ Sau đó, trong Android Studio, chọn thiết bị (giả lập hoặc thiết 
 1. Nhập **nhiệt độ (C)**.
 2. Nhấn **"Chuyển đổi"** để xem kết quả.
 3. Sử dụng **"Chia sẻ kết quả"** hoặc **"Lấy vị trí"** (nếu muốn).
+
+## Ảnh minh họa ứng dụng
+![image](https://github.com/user-attachments/assets/ef18daed-99cb-4871-8694-527af7f11b09)
+![image](https://github.com/user-attachments/assets/d18f07b5-a5e7-47a5-a310-435dad1524db)
+![image](https://github.com/user-attachments/assets/d4576003-becf-4926-ace7-bddd3a13916c)
+
